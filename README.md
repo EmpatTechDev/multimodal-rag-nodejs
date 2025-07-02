@@ -97,3 +97,5 @@ MIT — feel free to use and adapt.
 ## 🤝 Contributing
 
 Feel free to open issues or submit pull requests if you’d like to collaborate or extend the project.
+
+This solution was developed by [Empat.tech](https://www.empat.tech)
